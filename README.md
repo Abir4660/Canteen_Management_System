@@ -56,7 +56,8 @@ This app uses the following main database tables:
 - `MENU` – holds available items and prices  
 - `ORDERS` – customer orders  
 - `ORDER_ITEMS` – links orders and menu items  
-- `PAYMENTS` – records transactions  
+- `PAYMENTS` – records transactions
+- 'Change Authentication' - Change Username And Password
 
 👉 Full SQL setup is available in [`canteen_schema.sql`](./canteen_schema.sql)
 
@@ -130,12 +131,7 @@ Run the SQL script in your workspace schema:
 3. Log In
 Default roles:
 
-Admin: Create users, menus, and manage all data
+Admin: Create users, menus, change username and password and manage all data
 
 Customer: Place orders and make payments
 
-📸 Suggested Screenshots Section (Optional)
-
-You can add screenshots in a /screenshots folder:
-📁 /screenshots
- ┣ 🖼️ login_pag
