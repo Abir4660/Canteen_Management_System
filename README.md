@@ -135,3 +135,26 @@ Admin: Create users, menus, change username and password and manage all data
 
 Customer: Place orders and make payments
 
+📦 apex-round-cafe
+ ┣ 📜 README.md
+ ┣ 📜 f214056.sql                # APEX Application Export
+ ┣ 📜 canteen_schema.sql         # Database schema
+ ┣ 📁 /static
+ ┃ ┗ 📜 custom.css
+ ┣ 📁 /screenshots
+ ┗ 📁 /docs
+    ┗ ERD.png
+
+🧑‍💻 Author
+
+Md. Ahmed
+B.Sc. in Computer Science & Engineering – 8th Semester
+Oracle APEX & Database Developer
+
+📜 License
+
+This project is licensed under the MIT License – feel free to use, modify, and distribute.
+
+
+
+
